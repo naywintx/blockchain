@@ -1,0 +1,1131 @@
+repo_name: naywintx/blockchain
+report_id: 8816cdd8fb75d03a1131044708f900c2
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-21T02:32:25+00:00'
+requested_by: PatAltimore
+provider: github
+branch: master
+detected_tools_count: 78
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ipfs/common/scripts/docker/Dockerfile
+  detection_source: ledger/template/ipfs/common/scripts/docker/Dockerfile
+  last_updated_by: Cale Teeter
+  last_updated_on: 2020-07-08 21:34:59.000000000 Z
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:34:22.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/iot-integration-samples/SQL/IoTSprocs.sql
+  detection_source: blockchain-workbench/iot-integration-samples/SQL/IoTSprocs.sql
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-12 09:17:20.000000000 Z
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  detection_source: blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  last_updated_by: malirezaie
+  last_updated_on: 2019-01-30 18:52:50.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '2.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/netcore/netcore.csproj
+  detection_source: blockchain-workbench/auth-samples/netcore/netcore.csproj
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 04:39:57.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '2.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/netcore/netcore.csproj
+  detection_source: blockchain-workbench/auth-samples/netcore/Dockerfile
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 04:39:57.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.16.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/bearer-token-retrieval/Dockerfile
+  detection_source: blockchain-workbench/auth-samples/bearer-token-retrieval/Dockerfile
+  last_updated_by: Razi Rais
+  last_updated_on: 2018-08-31 18:29:35.000000000 Z
+- name: Ethereum
+  description: Open source platform to write and distribute decentralized applications
+  website_url: https://ethereum.org
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Blockchain
+  image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/.babelrc
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/pom.xml
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 22.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  detection_source: blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  last_updated_by: malirezaie
+  last_updated_on: 2019-01-30 18:52:50.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/test-requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/test-requirements.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:27:03.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:34:22.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/.travis.yml
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/.travis.yml
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/dotnet/Workbench.Client.sln
+  detection_source: blockchain-workbench/rest-api-samples/dotnet/Workbench.Client.sln
+  last_updated_by: malirezaie
+  last_updated_on: 2018-11-22 01:20:10.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: ngrok
+  description: Securely expose a local web server to the internet and capture all
+    traffic for detailed inspection and replay
+  website_url: https://ngrok.com/
+  open_source: true
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: localhost Tools
+  image_url: https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: Azure Active Directory
+  description: Identity and access management for the cloud
+  website_url: https://azure.microsoft.com/en-us/services/active-directory/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/6346/icon.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/netcore/netcore.csproj
+  detection_source: blockchain-workbench/auth-samples/netcore/netcore.csproj
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 04:39:57.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.16.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/create_update_from_CSV/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/create_update_from_CSV/requirements.txt
+  last_updated_by: mpUrban
+  last_updated_on: 2019-02-25 15:46:32.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: Refit
+  description: Turn your REST API into a live interface
+  website_url: https://reactiveui.github.io/refit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/20926/default_f8fb986d889eb12dfac827180a7901396f6d3b82.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  detection_source: blockchain-workbench/rest-api-samples/dotnet/functionSource/Functions.csproj
+  last_updated_by: malirezaie
+  last_updated_on: 2019-01-30 18:52:50.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/nodejs/package.json
+  detection_source: blockchain-workbench/auth-samples/nodejs/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2021-09-10 20:07:56.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/naywintx/blockchain
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.16.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/nodejs/package.json
+  detection_source: blockchain-workbench/auth-samples/nodejs/package.json
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 06:04:16.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.6.1
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 0.20.2
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched:
+- name: babel-cli
+  description: Babel command line
+  package_url: https://www.npmjs.com/babel-cli
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15804/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 22.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-plugin-syntax-object-rest-spread
+  description: Allow parsing of object rest/spread
+  package_url: https://www.npmjs.com/babel-plugin-syntax-object-rest-spread
+  version: 6.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16934/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-plugin-transform-es2015-modules-umd
+  description: This plugin transforms ES2015 modules to UMD
+  package_url: https://www.npmjs.com/babel-plugin-transform-es2015-modules-umd
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16412/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-plugin-transform-object-rest-spread
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/babel-plugin-transform-object-rest-spread
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15880/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-plugin-transform-runtime
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/babel-plugin-transform-runtime
+  version: 6.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-polyfill
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/babel-polyfill
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.18.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: clui
+  description: A Node.js toolkit for drawing nice command line tables
+  package_url: https://www.npmjs.com/clui
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17397/default_7b8a4dd0459c1d55636639cb97d216b33a363a7f.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: ethereumjs-tx
+  description: A simple module for creating
+  package_url: https://www.npmjs.com/ethereumjs-tx
+  version: 1.3.4
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17320/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: ethereumjs-wallet
+  description: Utilities for handling Ethereum keys
+  package_url: https://www.npmjs.com/ethereumjs-wallet
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18246/default_42444f560291e764861faaf607f48484f4d14cba.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/bearer-token-retrieval/package.json
+  detection_source: blockchain-workbench/auth-samples/bearer-token-retrieval/package.json
+  last_updated_by: Larry Claman
+  last_updated_on: 2018-11-21 20:40:49.000000000 Z
+- name: jsdoc-to-markdown
+  description: Generates markdown API documentation from jsdoc annotated source code
+  package_url: https://www.npmjs.com/jsdoc-to-markdown
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16276/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: mockdate
+  description: A JavaScript mock Date object that can be used to change when "now"
+    is
+  package_url: https://www.npmjs.com/mockdate
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17523/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 9.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: solc
+  description: Solidity compiler
+  package_url: https://www.npmjs.com/solc
+  version: 0.4.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17248/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  detection_source: ledger/template/ethereum-on-azure/performance-benchmarking/package.json
+  last_updated_by: Cody Born
+  last_updated_on: 2018-10-02 23:26:16.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  detection_source: blocktalk/episode13-decentralizedidentity/uport-credentials/package.json
+  last_updated_by: Cale Teeter
+  last_updated_on: 2019-02-11 15:01:46.000000000 Z
+- name: urllib3
+  description: HTTP library with thread-safe connection pooling
+  package_url: https://pypi.org/project/urllib3
+  version: 1.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/requirements.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:27:03.000000000 Z
+  vulnerabilities:
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in urllib3
+    cve_id: CVE-2018-20060
+    cve_url: https://github.com/advisories/GHSA-www2-v7xj-xrc6
+    detected_date: Aug 22
+    severity: critical
+    first_patched: '1.23'
+  - name: Improper Certificate Validation in urllib3
+    cve_id: CVE-2019-11324
+    cve_url: https://github.com/advisories/GHSA-mh33-7rrq-662w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.24.2
+  - name: Improper Neutralization of CRLF Sequences in urllib3 library for Python
+    cve_id: CVE-2019-11236
+    cve_url: https://github.com/advisories/GHSA-r64q-w8jr-g9qp
+    detected_date: Jun 29
+    severity: moderate
+    first_patched: 1.24.3
+  - name: urllib3's request body not stripped after redirect from 303 status changes
+      request method to GET
+    cve_id: CVE-2023-45803
+    cve_url: https://github.com/advisories/GHSA-g4mx-q9vg-27p4
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.26.18
+  - name: Authorization Header forwarded on redirect
+    cve_id: CVE-2018-25091
+    cve_url: https://github.com/advisories/GHSA-gwvm-45gx-3cf8
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.24.2
+  - name: "`Cookie` HTTP header isn't stripped on cross-origin redirects"
+    cve_id: CVE-2023-43804
+    cve_url: https://github.com/advisories/GHSA-v845-jxx5-vc9f
+    detected_date: Oct 3
+    severity: moderate
+    first_patched: 1.26.17
+  - name: CRLF injection in urllib3
+    cve_id: CVE-2020-26137
+    cve_url: https://github.com/advisories/GHSA-wqvq-5m8c-6g24
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.25.9
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: 21.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/requirements.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:27:03.000000000 Z
+  vulnerabilities:
+  - name: pypa/setuptools vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-40897
+    cve_url: https://github.com/advisories/GHSA-r9hx-vwmv-q579
+    detected_date: Dec 28
+    severity: high
+    first_patched: 65.5.1
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.21.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/python/requirements.txt
+  detection_source: blockchain-workbench/auth-samples/python/requirements.txt
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 06:37:42.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: adal
+  description: The ADAL for Python library makes it easy for python application to
+    authenticate to Azure Active Directory
+  package_url: https://pypi.org/project/adal
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20478/default_800512522a1f8bb3ddeb015413c72f7409eb0719.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/python/requirements.txt
+  detection_source: blockchain-workbench/auth-samples/python/requirements.txt
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 06:37:42.000000000 Z
+- name: certifi
+  description: Python package for providing Mozilla's CA Bundle
+  package_url: https://pypi.org/project/certifi
+  version: 14.05.14
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/requirements.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:27:03.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 0.24.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/create_update_from_CSV/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/create_update_from_CSV/requirements.txt
+  last_updated_by: mpUrban
+  last_updated_on: 2019-02-25 15:46:32.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/swagger_client.egg-info/requires.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:34:22.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: '1.10'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/python/requirements.txt
+  detection_source: blockchain-workbench/rest-api-samples/python/requirements.txt
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 13:27:03.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in Gson
+    cve_id: CVE-2022-25647
+    cve_url: https://github.com/advisories/GHSA-4jrv-ppp4-jm57
+    detected_date: May 21
+    severity: high
+    first_patched: 2.8.9
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: com.squareup.okhttp:okhttp
+  description: An HTTP client for Android, Kotlin, and Java
+  version: 2.7.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: io.gsonfire:gson-fire
+  description: A java library that adds some very useful features to Gson, like Date
+    serializing to unix timestamp or RFC3339, method
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: io.swagger:swagger-annotations
+  description: Examples and server integrations for generating the Swagger API Specification
+  version: 1.5.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  version: 2.9.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  detection_source: blockchain-workbench/rest-api-samples/java/generated/build.gradle
+  last_updated_by: mmercuri
+  last_updated_on: 2018-05-07 14:19:10.000000000 Z
+- name: Microsoft.IdentityModel.Clients.ActiveDirectory
+  description: This package contains the binaries of the Active Directory Authentication
+    Library
+  package_url: https://www.nuget.org/Microsoft.IdentityModel.Clients.ActiveDirectory
+  version: 4.5.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12988/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/naywintx/blockchain/blob/master/blockchain-workbench/auth-samples/netcore/netcore.csproj
+  detection_source: blockchain-workbench/auth-samples/netcore/netcore.csproj
+  last_updated_by: ali92hm
+  last_updated_on: 2019-01-16 04:39:57.000000000 Z
